@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "codeOS",
     "colors": {
-   
+
         "focusBorder": "#404040",
         "foreground": "#F9FAFF",
         "selection.background": "#3f71c0",
@@ -56,7 +56,7 @@
         "gitDecoration.conflictingResourceForeground": "#ff92e4",
 
         "terminal.foreground": "#F9FAFF",
-        "terminal.ansiBrightBlack": "#212225",
+        "terminal.ansiBrightBlack": "#7e7e7e",
         "terminal.ansiBrightCyan": "#9ce7fd",
         "terminal.ansiBrightGreen": "#c0e9c6",
         "terminal.ansiBrightMagenta": "#ff92e4",
@@ -96,7 +96,7 @@
 
         "titleBar.activeBackground": "#2f3036",
         "titleBar.border": "#212225",
-        
+
         "diffEditor.insertedTextBackground": "#79ffdd6e",
         "diffEditor.removedTextBackground": "#ff7c9d85"
     },
